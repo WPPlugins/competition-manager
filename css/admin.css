@@ -1,0 +1,181 @@
+.wrap h2
+{
+  margin:20px 0;
+}
+
+.dem-manage {
+width: 100%;
+border: 0;
+}
+
+.dem-manage img {
+width: 120px;
+}
+
+#the-question-label {
+font-weight: bold;
+}
+
+#the-question {
+vertical-align: middle;
+width: 400px;
+display: block;
+margin: 12px 12px;
+}
+
+#new-poll button {
+vertical-align: middle;
+}
+
+#answerButtons, .poll-options li {
+list-style: none;
+}
+
+#imageEdit
+{
+  padding:10px;
+  background:#f5f5f5;
+  border:1px solid #eee;
+  float:left;
+  display:none;
+}
+
+#imageEdit img
+{
+  display:block;
+}
+
+#imageEdit a
+{
+  display:block;
+}
+
+#comp-answers
+{
+  float:left;
+  margin-right:100px;
+}
+
+#comp-answers input[type=text] {
+width: 250px;
+}
+
+.the-poll-submit {
+margin: 10px;
+width: 200px;
+font-size: 125%;
+display: block;
+}
+
+#dem-gen-options p em {
+margin: 4px 15px;
+display: block;
+color: #666;
+}
+
+.inline-label label
+{
+	float:left;
+	width:100px;
+}
+
+p.intro
+{
+  padding:10px;
+  border:1px solid #ccc;
+  background:#e4f2fd;
+}
+
+.comp-list
+{
+  border-collapse:collapse;
+  border:1px solid #ddd;
+  font-size:0.9em;
+}
+
+.comp-list tr th
+{
+  background:#444;
+  padding:8px 20px;
+  color:#ccc;
+  text-align:left;
+}
+
+.comp-list tr td
+{
+  padding:2px 20px;
+}
+
+.addCompAdmin
+{
+  background:#e4f2fd;
+  border:1px solid #ccc;
+  padding:20px;
+}
+
+/* creates a little calendar icon
+ */
+ 
+#start-date, #end-date
+{
+  display:inline;
+  float:left;
+}
+ 
+a.dp-choose-date {
+	width: 25px;
+	height: 25px;
+	padding: 0;
+	margin: 5px 3px 0;
+	display: block;
+	text-indent: -2000px;
+	overflow: hidden;
+	background: url(pickDate.gif) no-repeat; 
+}
+a.dp-choose-date.dp-disabled {
+	background-position: 0 -20px;
+	cursor: default;
+}
+
+.checklist
+{
+    border: 1px solid #ccc;
+    list-style: none;
+    height: 20em;
+    overflow: auto;
+    width: 16em;
+    margin:0px 50px 10px 0;
+    padding:0;
+    float:left;
+}
+
+.checklist li
+{
+  margin:0;
+  padding:0;
+}
+
+.checklist label
+{
+    display: block;
+    padding: 5px 0 5px 35px;
+    text-indent: -25px;
+}
+
+.checklist label:hover
+{
+  background: #777;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+

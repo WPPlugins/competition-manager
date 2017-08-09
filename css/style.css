@@ -1,0 +1,15 @@
+.errorComp
+{
+  border-top:1px solid red;
+  border-bottom:1px solid red;
+  background:#eee;
+  display:none;
+  padding:10px 5px;
+}
+
+#Competition li.thanks
+{
+  margin-bottom:10px;
+  font-size:1.4em;
+  list-style:none;
+}
